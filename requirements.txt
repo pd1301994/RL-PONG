@@ -1,0 +1,11 @@
+gym[atari]
+gym[accept-rom-license]
+gym-notices==0.0.8
+gymnasium==1.0.0
+stable_baselines3==2.5.0
+numpy==1.23.0
+torch
+torchaudio
+torchvision
+opencv-python
+pygame==2.6.1
