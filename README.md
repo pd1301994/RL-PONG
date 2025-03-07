@@ -24,7 +24,7 @@
 - **playing.py**: The user will compete against the model. Use the **w** and **s** keys (up and down).
 - **retrain.py**: This file is used to retrain an existing model. It has a checkpoint in case the user wants to cancel the training mid-execution. A model is loaded first and then retrained.
 - **pong_21M_ppo_newparameters**: This is the model already trained in PPO. It is stored on Drive because it takes up a lot of space and cannot be uploaded to Git.
-- **logs**: This folder contains several subfolders. If we are using TensorFlow, we can use this command to visualize the graphs of our project:
+- **logs**: This folder contains several subfolders from different logs. Use this command if you want to visualize the project:
   ```bash
   tensorboard --logdir=logs
   ```
