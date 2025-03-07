@@ -8,7 +8,7 @@
    pip install -r requirements.txt
    ```
 2. Use this link to download the trained model: https://drive.google.com/file/d/1625ZC9GQFoK-E8D_sLIXkPAb3TN3oQ4G/view?usp=sharing
-3. Use this link to download the log folder: https://drive.google.com/file/d/1625ZC9GQFoK-E8D_sLIXkPAb3TN3oQ4G/view?usp=sharing
+
    ```
    logs
    eval.py
@@ -17,7 +17,7 @@
    retrain.py
    pong_21M_ppo_newparameters
    ```
-
+###Make sure everything is in the same folder
 ## File Descriptions
 - **eval.py**: This file will conduct a competition against the Gymnasium agent. The user should not touch anything.
 - **main.py**: This is the program where the first trained model is defined.
