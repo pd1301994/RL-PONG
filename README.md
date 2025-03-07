@@ -7,7 +7,8 @@
    ```bash
    pip install -r requirements.txt
    ```
-2. Go to this link and put the folder and the `.zip` in the same directory. It should now look like this:
+2. Use this link to download the trained model: https://drive.google.com/file/d/1625ZC9GQFoK-E8D_sLIXkPAb3TN3oQ4G/view?usp=sharing
+3. Use this link to download the log folder: https://drive.google.com/file/d/1625ZC9GQFoK-E8D_sLIXkPAb3TN3oQ4G/view?usp=sharing
    ```
    logs
    eval.py
