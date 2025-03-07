@@ -2,6 +2,10 @@
 
 **Important:** Python = 3.9 is required!
 
+
+
+Strongly recommend to use a virtual environment for the testing of this program
+
 ## Steps
 1. Run the following command to install the required packages:
    ```bash
