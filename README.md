@@ -17,7 +17,7 @@
    retrain.py
    pong_21M_ppo_newparameters
    ```
-###Make sure everything is in the same folder
+### Make sure everything is in the same folder
 ## File Descriptions
 - **eval.py**: This file will conduct a competition against the Gymnasium agent. The user should not touch anything.
 - **main.py**: This is the program where the first trained model is defined.
